@@ -6,7 +6,7 @@ This repo will keep track of my efforts to improve my skills and cultivate my kn
 
 ## Table of Contents
 
-### [Tier 1 - Fill in Knowledge Gaps](#tier-1--fill-in-knowledge-gaps)
+### [Tier 1 - Fill in Knowledge Gaps](#tier-1---fill-in-knowledge-gaps-1)
 
 **Goals**
 * Java:
@@ -16,7 +16,7 @@ This repo will keep track of my efforts to improve my skills and cultivate my kn
 
 **Project Ideas**:
 
-### [Tier 2 - Develop More Expertise](#tier-2---develop-more-expertise)
+### [Tier 2 - Develop More Expertise](#tier-2---develop-more-expertise-1)
 
 **Goals**
 * Java:
@@ -26,7 +26,7 @@ This repo will keep track of my efforts to improve my skills and cultivate my kn
 
 **Project Ideas**:
 
-### [Tier 3 - Add More Rigor](#tier-3---add-more-rigor)
+### [Tier 3 - Add More Rigor](#tier-3---add-more-rigor-1)
 
 **Goals**
 * Java:
@@ -36,7 +36,7 @@ This repo will keep track of my efforts to improve my skills and cultivate my kn
 
 **Project Ideas**:
 
-### [Tier 4 - Polish the Rough Edges](#tier-4---polish-the-rough-edges)
+### [Tier 4 - Polish the Rough Edges](#tier-4---polish-the-rough-edges-1)
 
 **Goals**
 * Java:
@@ -47,7 +47,7 @@ This repo will keep track of my efforts to improve my skills and cultivate my kn
 **Project Ideas**:
 
 
-### [Tier 5 - Advanced Specializations](#tier-5---advanced-specializations)
+### [Tier 5 - Advanced Specializations](#tier-5---specialize)
 
 **Goals**
 
@@ -71,13 +71,17 @@ Deepen understanding of Web Development, programming languages, and Computer Sci
 | [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)| CS | | | |
 | [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)| CS | | | |
 | [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | CS | | | |
-| [Software Testing](https://www.udacity.com/course/software-testing--cs258) | CS | | | |
+| [Software Testing](https://www.udacity.com/course/software-testing--cs258) | CS | | ||
+| [Data Structures in Java](https://www.youtube.com/watch?v=0XL1NBUv2NU) | Java, CS || ||
+| [Learn AWS Serverless by creating a basic email signup list](https://medium.com/@drwtech/learn-aws-serverless-by-creating-a-basic-email-signup-list-2b5ce5c94a19) | AWS || ||
+| [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)| Redux || ||
 | **Reading** | **Topic** | **Started** | **Completed** |**Evidence** |
 | Head First Java| Java | | | |
 | [MDN JavaScript - Tutorials - JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript#JavaScript_guide) | JS | | | |
 | [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) | JS | | | |
 | [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) | JS | | | |
 | [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) | JS | | | |
+| [Introduction to the Design and Analysis of Algorithms](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20the%20Design%20and%20Analysis%20of%20Algorithms%20%283rd%20ed.%29%20%5BLevitin%202011-10-09%5D.pdf) | CS | | | |
 | **Practice** | **Topic** | **Started** | **Completed** |**Evidence** |
 | Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) | | | | |
 | Programming Project | | | | |
@@ -100,6 +104,7 @@ Dive deeper into the Computer Science topics which will prove useful throughout 
 | [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) | JS | | | |
 | [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) | JS | | | |
 | [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix) | JS | | | |
+| [Introduction to Algorithms 3rd Edition](https://ms.sapientia.ro/~kasa/Algorithms_3rd.pdf) | CS | | | |
 | **Practice** | **Topic** | **Started** | **Completed** |**Evidence** |
 | Complete all Classic Puzzles - Medium on [CodinGame](https://www.codingame.com/) | | | | |
 | Complete all ES6 Katas [here](http://es6katas.org/) | | | | |
